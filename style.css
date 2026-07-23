@@ -69,6 +69,7 @@ a:hover { text-decoration: underline; }
 }
 .social-links a:hover { border-color: var(--blue); color: var(--blue); background: var(--blue-light); text-decoration: none; }
 .social-links svg { width: 14px; height: 14px; flex-shrink: 0; }
+.service-line { margin-top: 14px; font-size: 11.5px; color: var(--text-muted); letter-spacing: 0.02em; }
 
 /* ---------- SECTIONS ---------- */
 .section { margin-bottom: 52px; }
