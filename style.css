@@ -68,6 +68,7 @@ a:hover { text-decoration: underline; }
   transition: border-color 0.15s, color 0.15s, background 0.15s;
 }
 .social-links a:hover { border-color: var(--blue); color: var(--blue); background: var(--blue-light); text-decoration: none; }
+.social-links svg { width: 14px; height: 14px; flex-shrink: 0; }
 
 /* ---------- SECTIONS ---------- */
 .section { margin-bottom: 52px; }
